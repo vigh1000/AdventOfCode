@@ -3,6 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class DayOne extends DayGeneral {
+    //https://adventofcode.com/2022/day/1
 
     public DayOne (File inputFile) throws FileNotFoundException {
         Scanner scanner = new Scanner(inputFile);
